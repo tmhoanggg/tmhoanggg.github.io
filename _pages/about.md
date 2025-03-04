@@ -49,9 +49,28 @@ I’m currently seeking an internship opportunity in Data Science, Machine Learn
 
 # 🛠️ Projects
 
+## [Olympic Medal Prediction and Analysis](https://tmhoanggg.github.io/MCM2025_Olympic-Medal-Prediction-and-Analysis)
+**COMAP's Mathematical Contest in Modeling (MCM), 2025**  
+Predicting Olympic medal distributions using data-driven approaches.  
+[**ProjectPage**](https://tmhoanggg.github.io/MCM2025_Olympic-Medal-Prediction-and-Analysis) | 
+[**Code**](https://github.com/tmhoanggg/MCM2025_Olympic-Medal-Prediction-and-Analysis) | 
+[**Paper**](https://github.com/tmhoanggg/MCM2025_Olympic-Medal-Prediction-and-Analysis/blob/main/2526908.pdf)  
+
+## [Multimodal Sarcasm Classification](https://tmhoanggg.github.io/Multimodal-Sarcasm-Detection)
+**UIT Data Science Challenge, 2024**  
+Using multimodal learning techniques to classify sarcasm in text and images.  
+[**ProjectPage**](https://tmhoanggg.github.io/Multimodal-Sarcasm-Detection) | 
+[**Code**](https://github.com/tmhoanggg/Multimodal-Sarcasm-Detection)  
+
+## [House Price Prediction](https://tmhoanggg.github.io/House-Price-Prediction)
+**Final project of Intro to Data Science course, 2024**  
+Built a predictive model for house pricing using regression techniques.  
+[**ProjectPage**](https://tmhoanggg.github.io/House-Price-Prediction) | 
+[**Code**](https://github.com/tmhoanggg/House-Price-Prediction)  
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* Top 3 Public Test, Top 8 Private Test (among 100 teams), UIT Data Science Challenge. 
+- Academic Encouragement Scholarship: Semester 1 & 2, 2023-2024.
 
 # 📖 Educations
 - *2022 - Present*, University of Science - VNUHCM, Bachelor of Data Science
