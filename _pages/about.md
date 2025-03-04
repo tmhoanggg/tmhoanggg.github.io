@@ -49,34 +49,42 @@ I’m currently seeking an internship opportunity in Data Science, Machine Learn
 
 # 🛠️ Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='https://github.com/tmhoanggg/MCM2025_Olympic-Medal-Prediction-and-Analysis/blob/main/results/medal_table.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://github.com/tmhoanggg/MCM2025_Olympic-Medal-Prediction-and-Analysis/blob/3d18e72039857177dd2d6e2e842ee8e8acc2978c/results/medal_table.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[**Olympic Medal Prediction and Analysis**](https://tmhoanggg.github.io/MCM2025_Olympic-Medal-Prediction-and-Analysis)
 
+[**Olympic Medal Prediction and Analysis**](https://tmhoanggg.github.io/MCM2025_Olympic-Medal-Prediction-and-Analysis) \\
 COMAP's Mathematical Contest in Modeling (MCM), 2025
 Predict the medal table for the 2028 Los Angeles Olympics and analyze the contribution of the "great coach" effect on medal counts.
 [**ProjectPage**](https://tmhoanggg.github.io/MCM2025_Olympic-Medal-Prediction-and-Analysis) | 
 [**Code**](https://github.com/tmhoanggg/MCM2025_Olympic-Medal-Prediction-and-Analysis) | 
 [**Paper**](https://github.com/tmhoanggg/MCM2025_Olympic-Medal-Prediction-and-Analysis/blob/main/2526908.pdf)  
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/8ad4fa12-401a-4516-a73f-888abd9468ac' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Multimodal Sarcasm Classification**](https://tmhoanggg.github.io/Multimodal-Sarcasm-Detection)
-
+[**Multimodal Sarcasm Classification**](https://tmhoanggg.github.io/Multimodal-Sarcasm-Detection) \\
 UIT Data Science Challenge, 2024
 Using multimodal learning techniques to classify sarcasm in text and images.  
 [**ProjectPage**](https://tmhoanggg.github.io/Multimodal-Sarcasm-Detection) | 
 [**Code**](https://github.com/tmhoanggg/Multimodal-Sarcasm-Detection)  
+</div>
+</div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/house_price.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [**House Price Prediction**](https://tmhoanggg.github.io/House-Price-Prediction)
-
+[**House Price Prediction**](https://tmhoanggg.github.io/House-Price-Prediction) \\
 Final project of Intro to Data Science course, 2024 
 Built a predictive model for house pricing using regression techniques.  
 [**ProjectPage**](https://tmhoanggg.github.io/House-Price-Prediction) | 
 [**Code**](https://github.com/tmhoanggg/House-Price-Prediction)  
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2024.11* Top 3 Public Test, Top 8 Private Test (among 100 teams), UIT Data Science Challenge. 
