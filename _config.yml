@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Truong Minh Hoang - Homepage"
-description              : "Third-year Data Science student at the University of Science - VNUHCM, passionate about data-driven solutions and AI"
+title                    : "Truong Minh Hoang"
+description              : "Third-year Data Science student at VNUHCM - University of Science"
 repository               : "tmhoanggg/tmhoanggg.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Truong Minh Hoang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : #"Lorem ipsum College"
-  location         : "HoChiMinh City, Vietnam"
+  location         : "Ho Chi Minh City, Vietnam"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Ho_Chi_Minh # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
