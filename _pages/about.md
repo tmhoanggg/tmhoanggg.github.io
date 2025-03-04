@@ -49,20 +49,20 @@ I’m currently seeking an internship opportunity in Data Science, Machine Learn
 
 # 🛠️ Projects
 
-## [Olympic Medal Prediction and Analysis](https://tmhoanggg.github.io/MCM2025_Olympic-Medal-Prediction-and-Analysis)
+- [Olympic Medal Prediction and Analysis](https://tmhoanggg.github.io/MCM2025_Olympic-Medal-Prediction-and-Analysis)
 **COMAP's Mathematical Contest in Modeling (MCM), 2025**  
-Predicting Olympic medal distributions using data-driven approaches.  
+Predict the medal table for the 2028 Los Angeles Olympics and analyze the contribution of the "great coach" effect on medal counts.
 [**ProjectPage**](https://tmhoanggg.github.io/MCM2025_Olympic-Medal-Prediction-and-Analysis) | 
 [**Code**](https://github.com/tmhoanggg/MCM2025_Olympic-Medal-Prediction-and-Analysis) | 
 [**Paper**](https://github.com/tmhoanggg/MCM2025_Olympic-Medal-Prediction-and-Analysis/blob/main/2526908.pdf)  
 
-## [Multimodal Sarcasm Classification](https://tmhoanggg.github.io/Multimodal-Sarcasm-Detection)
+- [Multimodal Sarcasm Classification](https://tmhoanggg.github.io/Multimodal-Sarcasm-Detection)
 **UIT Data Science Challenge, 2024**  
 Using multimodal learning techniques to classify sarcasm in text and images.  
 [**ProjectPage**](https://tmhoanggg.github.io/Multimodal-Sarcasm-Detection) | 
 [**Code**](https://github.com/tmhoanggg/Multimodal-Sarcasm-Detection)  
 
-## [House Price Prediction](https://tmhoanggg.github.io/House-Price-Prediction)
+- [House Price Prediction](https://tmhoanggg.github.io/House-Price-Prediction)
 **Final project of Intro to Data Science course, 2024**  
 Built a predictive model for house pricing using regression techniques.  
 [**ProjectPage**](https://tmhoanggg.github.io/House-Price-Prediction) | 
