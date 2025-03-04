@@ -50,7 +50,7 @@ I’m currently seeking an internship opportunity in Data Science, Machine Learn
 # 🛠️ Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='https://github.com/tmhoanggg/MCM2025_Olympic-Medal-Prediction-and-Analysis/blob/main/results/medal_table.png?raw=true' alt="sym" width="70%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1" style="width: 70%;">
 
 [**Olympic Medal Prediction and Analysis**](https://tmhoanggg.github.io/MCM2025_Olympic-Medal-Prediction-and-Analysis) \\
 COMAP's Mathematical Contest in Modeling (MCM), 2025\\
@@ -63,7 +63,7 @@ Predict the medal table for the 2028 Los Angeles Olympics and analyze the contri
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='https://github.com/user-attachments/assets/8ad4fa12-401a-4516-a73f-888abd9468ac' alt="sym" width="70%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1" style="width: 70%;">
 
 [**Multimodal Sarcasm Classification**](https://tmhoanggg.github.io/Multimodal-Sarcasm-Detection) \\
 UIT Data Science Challenge, 2024\\
@@ -75,7 +75,7 @@ Using multimodal learning techniques to classify sarcasm in text and images.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/house_price.png' alt="sym" width="70%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1" style="width: 70%;">
 
 [**House Price Prediction**](https://tmhoanggg.github.io/House-Price-Prediction) \\
 Final project of Intro to Data Science course, 2024 \\
@@ -88,7 +88,7 @@ Built a predictive model for house pricing using regression techniques.
 
 # 🎖 Honors and Awards
 - *2024.11* Top 3 Public Test, Top 8 Private Test (among 100 teams), UIT Data Science Challenge. 
-- VNUHCM - University of Science's Academic Encouragement Scholarship: Semester 1 \& 2, 2023-2024.
+- VNUHCM - University of Science's Academic Encouragement Scholarship: Semester 1 and 2, 2023-2024.
 
 # 📖 Educations
 - *2022 - Present*, University of Science - VNUHCM, Bachelor of Data Science
