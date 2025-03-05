@@ -47,6 +47,8 @@ I’m currently seeking an internship opportunity in Data Science, Machine Learn
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<span class='anchor' id='projects'></span>
+
 # 🛠️ Projects
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><img src='https://github.com/tmhoanggg/MCM2025_Olympic-Medal-Prediction-and-Analysis/blob/main/results/medal_table.png?raw=true' alt="sym" width="70%"></div></div>
