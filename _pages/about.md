@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-{% include_relative includes/intro.md %}
+{% include_relative sections/intro.md %}
 
-{% include_relative includes/news.md %}
+{% include_relative sections/news.md %}
 
-{% include_relative includes/publication.md %}
+{% include_relative sections/publication.md %}
 
-{% include_relative includes/project.md %}
+{% include_relative sections/project.md %}
 
-{% include_relative includes/honor.md %}
+{% include_relative sections/honor.md %}
 
-{% include_relative includes/others.md %}
+{% include_relative sections/others.md %}
 
-{% include_relative includes/others.md %}
+{% include_relative sections/others.md %}
 
-{% include_relative includes/experience.md %}
+{% include_relative sections/experience.md %}
