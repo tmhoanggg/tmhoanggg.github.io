@@ -38,18 +38,8 @@ I’m currently seeking an internship opportunity in Data Science, Machine Learn
 <div class='paper-box-text' markdown="1"> -->
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge" style="background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; font-size: 14px; display: inline-block;">
-        CVPR 2025 (Workshop)
-      </div>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    **Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling**
-  </div>
-</div>
+
+<span class="conference-tag">CVPR 2025 (Workshop)</span> Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling
 
 **Hoang M. Truong**, Vinh-Thuan Ly, Huy G. Tran, Thuan-Phat Nguyen, Tram T. Doan
 
