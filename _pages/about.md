@@ -27,8 +27,6 @@ redirect_from:
 
 {% include_relative sections/honor.md %}
 
-{% include_relative sections/others.md %}
-
-{% include_relative sections/others.md %}
+{% include_relative sections/education.md %}
 
 {% include_relative sections/experience.md %}
