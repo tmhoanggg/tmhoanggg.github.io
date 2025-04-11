@@ -6,11 +6,10 @@
 <!-- - *2025.04 - Present*, [Viettel Group](https://viettel.com.vn/vi/), Data Science & AI, Viettel Digital Talent program 2025, Ho Chi Minh City, Vietnam.
 - *2024.02 - Present*, [AISIA Research Lab](https://aisia.vn/), Undergraduate Research Assistant, Ho Chi Minh City, Vietnam. -->
 
-- **Viettel Group** – *Data Science & AI Intern*  
+- **[Viettel Group](https://viettel.com.vn/vi/) - Viettel Digital Talent Program 2025** – *Data Science & AI Intern*  
 *Apr 2025 – Present · Ho Chi Minh City, Vietnam*  
-Viettel Digital Talent Program 2025  
 
-- **AISIA Research Lab** – *Undergraduate Research Assistant*  
+- **[AISIA Research Lab](https://aisia.vn/)** – *Undergraduate Research Assistant*  
 *Feb 2024 – Present · Ho Chi Minh City, Vietnam*
 
 <div id="notice" style="display:none">
