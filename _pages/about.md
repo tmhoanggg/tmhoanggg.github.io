@@ -23,8 +23,6 @@ redirect_from:
 
 {% include_relative sections/publication.md %}
 
-{% include_relative sections/project.md %}
-
 {% include_relative sections/honor.md %}
 
 {% include_relative sections/others.md %}
