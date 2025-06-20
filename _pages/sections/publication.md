@@ -4,4 +4,4 @@
 **Hoang M. Truong**, Vinh-Thuan Ly, Huy G. Tran, Thuan-Phat Nguyen, Tram T. Doan
 
 - <span class="conference-tag">CVPR 2025 (Workshop)</span> [Event-based eye tracking. Even-based Vision Workshop 2025](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Chen_Event-based_eye_tracking._Even-based_Vision_Workshop_2025_CVPRW_2025_paper.html)  
-Collaborative challenge survey paper. Co-author among 40+ contributors.
+Collaborative challenge survey paper. Co-author among 30+ contributors.
