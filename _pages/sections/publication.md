@@ -1,5 +1,8 @@
 # 📝 Publications 
 
+- <span class="conference-tag">ICCV 2025 (Workshop)</span> TinyGiantVLM: A Lightweight Vision-Language Architecture for Spatial Reasoning under Resource Constraints  
+Vinh-Thuan Ly, **Hoang M. Truong**, Xuan-Huong Nguyen
+
 - <span class="conference-tag">CVPR 2025 (Workshop)</span> [Dual-Path Enhancements in Event-Based Eye Tracking: Augmented Robustness and Adaptive Temporal Modeling](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Truong_Dual-Path_Enhancements_in_Event-Based_Eye_Tracking_Augmented_Robustness_and_Adaptive_CVPRW_2025_paper.html)  
 **Hoang M. Truong**, Vinh-Thuan Ly, Huy G. Tran, Thuan-Phat Nguyen, Tram T. Doan
 
